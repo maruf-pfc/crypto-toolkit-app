@@ -69,6 +69,7 @@ Make sure you have Node.js and pnpm installed on your machine.
 
 ## Project Structure
 
+```
 📦app
 ┣ 📜favicon.ico
 ┣ 📜globals.css
@@ -81,6 +82,7 @@ Make sure you have Node.js and pnpm installed on your machine.
 📜package.json
 📜pnpm-lock.yaml
 📜README.md
+```
 
 ## License
 
