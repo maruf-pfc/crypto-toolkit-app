@@ -33,13 +33,13 @@ Make sure you have Node.js and pnpm installed on your machine.
 2. **Install the dependencies:**
 
    ```bash
-   pnpm install
+   npm install
    ```
 
 3. **Install additional packages:**
 
    ```bash
-   pnpm install crypto-js node-rsa
+   npm install crypto-js node-rsa
    ```
 
 ### Running the Application
@@ -47,7 +47,7 @@ Make sure you have Node.js and pnpm installed on your machine.
 1. **Start the development server:**
 
    ```bash
-   pnpm run dev
+   npm run dev
    ```
 
 2. **Open your browser and navigate to:**
@@ -82,7 +82,7 @@ Make sure you have Node.js and pnpm installed on your machine.
 📜jsconfig.json
 📜next.config.js
 📜package.json
-📜pnpm-lock.yaml
+📜package-lock.json
 📜README.md
 ```
 
