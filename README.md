@@ -2,6 +2,8 @@
 
 This is a simple web application that allows users to encrypt and decrypt text using various encryption algorithms including AES, DES, TripleDES. The application is built using Next.js and styled with raw CSS.
 
+![image](https://github.com/user-attachments/assets/e5a1fb67-0e18-4dd5-a3e0-4300929f7af5)
+
 ## Features
 
 - **AES Encryption/Decryption**
